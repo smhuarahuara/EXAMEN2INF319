@@ -24,7 +24,7 @@ object tempEstruc{
          println(a) 
          i=i+1 
       } 
-      println(fib2(x)) 
+      //println(fib2(x)) 
       println(fib3(x)) 
    } 
 }
